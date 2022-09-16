@@ -21,28 +21,17 @@
 - ### Aula 01: 
     - Apresentação das ferramentas e configuração do ambiente de desenvolvimento.
 
-<br>
-
 - ### Aula 02: 
     - Introdução ao HTML, o que é HTML?, Hypertext, Markup e Sintaxe de uma tag.
-
-<br>
 
 - ### Aula 03: 
     - Introdução ao CSS, o que é CSS?, Declaration, Comentários, Cascading, Specificity e Box Model.
 
-<br>
-
-
 - ### Aula 04: 
     - Introdução ao GitHub, o que é GitHub?
 
-<br>
-
 - ### Aula 05: 
     - Upload do projeto no GitHub.
-
-</br>
 
 ## 📝 **O que aprendi?**
 > Com certeza, o que eu mais gostei e que eu não sabia fazer era fazer e aplicar transição e animações nos elementos. 
