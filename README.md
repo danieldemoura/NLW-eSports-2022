@@ -1,5 +1,5 @@
 # **NLW eSports - Trilha Explorer**
-> Projeto construído no evento Next Level Week da Rocketseat. O evento ocorreu no ano de 2022 entre os dias 11 de Setembro até 14 de Setembro.
+> Projeto construído no evento Next Level Week da Rocketseat. O evento ocorreu no ano de 2022 entre os dias 11 de Setembro até 18 de Setembro.
 
 ![preview](./.github/preview.png)
 
