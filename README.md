@@ -3,7 +3,7 @@
 
 ![preview](./.github/preview.png)
 
->### [📎 Clique aqui para acessar o projeto](https://danieldemoura.github.io/NLW-eSports-2022/)
+>## [📎 Clique aqui para acessar o projeto](https://danieldemoura.github.io/NLW-eSports-2022/)
 </br>
 
 ## 🛠️ **Tecnologias utilizadas**
